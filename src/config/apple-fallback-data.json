@@ -310,5 +310,65 @@
       "height": 640
     },
     "scaleFactor": 2
+  },
+  {
+    "device": "Cordova - iPhone",
+    "portrait": {
+      "width": 320,
+      "height": 480
+    },
+    "landscape": {
+      "width": 480,
+      "height": 320
+    },
+    "scaleFactor": 1
+  },
+  {
+    "device": "Cordova - iPhone 2x",
+    "portrait": {
+      "width": 640,
+      "height": 960
+    },
+    "landscape": {
+      "width": 960,
+      "height": 640
+    },
+    "scaleFactor": 2
+  },
+  {
+    "device": "Cordova - iPad",
+    "portrait": {
+      "width": 768,
+      "height": 1024
+    },
+    "landscape": {
+      "width": 1024,
+      "height": 768
+    },
+    "scaleFactor": 2
+  },
+  {
+    "device": "Cordova - iPad 2x",
+    "portrait": {
+      "width": 1536,
+      "height": 2048
+    },
+    "landscape": {
+      "width": 2048,
+      "height": 1536
+    },
+    "scaleFactor": 2
+  },
+  {
+    "device": "Cordova - iPhone 736h",
+    "portrait": {
+      "width": 1242,
+      "height": 2208
+    },
+    "landscape": {
+      "width": 2208,
+      "height": 1242
+    },
+    "scaleFactor": 2
   }
 ]

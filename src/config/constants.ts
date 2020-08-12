@@ -163,7 +163,7 @@ export default {
     'https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/',
 
   // Apple platform specs: https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/
-  APPLE_ICON_SIZES: [180, 167, 152, 120],
+  APPLE_ICON_SIZES: [180, 167, 152, 120, 144, 114, 100, 87, 80, 72, 60, 58, 57, 40],
 
   // Android platform specs: https://developers.google.com/web/fundamentals/web-app-manifest/#icons
   // Windows platform specs: https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started
